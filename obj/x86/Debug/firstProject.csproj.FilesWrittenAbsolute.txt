@@ -1,0 +1,5 @@
+/Users/TaHuC/Projects/firstProject/firstProject/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/TaHuC/Projects/firstProject/firstProject/bin/Debug/firstProject.exe.mdb
+/Users/TaHuC/Projects/firstProject/firstProject/bin/Debug/firstProject.exe
+/Users/TaHuC/Projects/firstProject/firstProject/obj/x86/Debug/firstProject.exe
+/Users/TaHuC/Projects/firstProject/firstProject/obj/x86/Debug/firstProject.exe.mdb
